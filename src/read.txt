@@ -1,0 +1,6 @@
+Hello world
+this is a test
+i am counting how many lines there are
+how many words there are
+and how many spaces there are
+how thrilling
